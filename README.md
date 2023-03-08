@@ -1,1 +1,21 @@
-# Blockchain-Workshop
+# Learn Blockchain by building one
+
+- Understanding the theory behind Blockchain:
+  -	What is Blockchain
+  -	Understanding a SHA256 Hash
+  -	Immutable Ledger
+  -	Distributed P2P Network
+  -	Mining
+  -	Byzantine Fault Tolerance
+  -	Consensus Protocol
+  -	Cryptocurrency
+- Creating a Blockchain:
+  -	Initializing a blockchain
+  -	Mining a block 
+  -	Adding a block to the chain 
+  -	Checking if a chain is valid 
+  -	Getting a full blockchain
+- Tools:
+  -	Python
+  -	Flask
+  -	Postman
